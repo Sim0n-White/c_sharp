@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<Tractor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>300-Трактариста</Name>
+  <SerialNumber>34623-ДТ</SerialNumber>
+  <Сabin>
+    <Name>Кабина 3000</Name>
+    <SerialNumber>8-800-555</SerialNumber>
+    <Type>TropicalDesign</Type>
+  </Сabin>
+  <Engine>
+    <Name>Turbo-Max-CrazyDazy-Disel</Name>
+    <SerialNumber>1000HP</SerialNumber>
+    <Type>Diesel</Type>
+  </Engine>
+</Tractor>

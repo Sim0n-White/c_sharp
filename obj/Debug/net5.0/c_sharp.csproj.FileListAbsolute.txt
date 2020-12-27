@@ -1,0 +1,16 @@
+/home/simon/Рабочий стол/c_charp/c_sharp/bin/Debug/net5.0/c_sharp
+/home/simon/Рабочий стол/c_charp/c_sharp/bin/Debug/net5.0/c_sharp.deps.json
+/home/simon/Рабочий стол/c_charp/c_sharp/bin/Debug/net5.0/c_sharp.runtimeconfig.json
+/home/simon/Рабочий стол/c_charp/c_sharp/bin/Debug/net5.0/c_sharp.runtimeconfig.dev.json
+/home/simon/Рабочий стол/c_charp/c_sharp/bin/Debug/net5.0/c_sharp.dll
+/home/simon/Рабочий стол/c_charp/c_sharp/bin/Debug/net5.0/ref/c_sharp.dll
+/home/simon/Рабочий стол/c_charp/c_sharp/bin/Debug/net5.0/c_sharp.pdb
+/home/simon/Рабочий стол/c_charp/c_sharp/obj/Debug/net5.0/c_sharp.csprojAssemblyReference.cache
+/home/simon/Рабочий стол/c_charp/c_sharp/obj/Debug/net5.0/c_sharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/simon/Рабочий стол/c_charp/c_sharp/obj/Debug/net5.0/c_sharp.AssemblyInfoInputs.cache
+/home/simon/Рабочий стол/c_charp/c_sharp/obj/Debug/net5.0/c_sharp.AssemblyInfo.cs
+/home/simon/Рабочий стол/c_charp/c_sharp/obj/Debug/net5.0/c_sharp.csproj.CoreCompileInputs.cache
+/home/simon/Рабочий стол/c_charp/c_sharp/obj/Debug/net5.0/c_sharp.dll
+/home/simon/Рабочий стол/c_charp/c_sharp/obj/Debug/net5.0/ref/c_sharp.dll
+/home/simon/Рабочий стол/c_charp/c_sharp/obj/Debug/net5.0/c_sharp.pdb
+/home/simon/Рабочий стол/c_charp/c_sharp/obj/Debug/net5.0/c_sharp.genruntimeconfig.cache
